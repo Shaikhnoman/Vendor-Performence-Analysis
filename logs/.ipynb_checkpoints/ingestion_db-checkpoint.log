@@ -1,0 +1,4 @@
+INFO:root:ingestingbegin_inventory-checkpoint.csv in db
+INFO:root:ingestingbegin_inventory.csv in db
+INFO:root:ingestingend_inventory.csv in db
+INFO:root:ingestingpurchases.csv in db
