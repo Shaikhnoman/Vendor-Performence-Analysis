@@ -22,7 +22,7 @@ Visualization: Matplotlib, Tableau
 Tools & Techniques:
 Data Cleaning & Preprocessing
 
-##🔍 Key Analysis Performed
+### 🔍 Key Analysis Performed
 1. Vendor Contribution Analysis
 Identified vendors contributing the highest to sales and profit
 Highlighted dependency risks on specific vendors
