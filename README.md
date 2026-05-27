@@ -1,4 +1,4 @@
- 📊 Vendor Performance Analysis
+# 📊 Vendor Performance Analysis
 📌 Project Overview
 
 This project focuses on analyzing vendor performance to improve profitability, inventory efficiency, and strategic decision-making in the retail/wholesale domain. The analysis leverages data-driven techniques to uncover insights related to sales, pricing, and vendor contribution.
